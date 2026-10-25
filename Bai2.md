@@ -354,10 +354,10 @@ Các trường hợp dưới đây cần được thực hiện trực tiếp tr
 | 16 | Tính SHA-256 | Thay đổi một ký tự đầu vào | Giá trị băm tự cập nhật | Đạt |
 | 17 | Hiệu ứng avalanche | So sánh hai đầu vào gần giống nhau | Hiển thị số bit khác nhau trên 256 bit | Đạt |
 | 18 | Ký số RSA-PSS | Ký dữ liệu bằng private key | Tạo chữ ký Base64 | Đạt |
-| 19 | Ký lại cùng dữ liệu | Ký lần nữa không đổi dữ liệu/khóa | Chữ ký thường khác và trạng thái ghi nhận sự khác nhau | Chưa thử |
-| 20 | Xác minh chữ ký hợp lệ | Xác minh bằng public key cùng cặp | Báo chữ ký hợp lệ | Chưa thử |
-| 21 | Sửa dữ liệu sau khi ký | Đổi một ký tự, giữ chữ ký cũ | Báo chữ ký không hợp lệ | Chưa thử |
-| 22 | Đo tốc độ RSA | Chạy 100 lần | Hiển thị kết quả cho bốn thao tác | Chưa thử |
+| 19 | Ký lại cùng dữ liệu | Ký lần nữa không đổi dữ liệu/khóa | Chữ ký thường khác và trạng thái ghi nhận sự khác nhau | Đạt |
+| 20 | Xác minh chữ ký hợp lệ | Xác minh bằng public key cùng cặp | Báo chữ ký hợp lệ | Đạt |
+| 21 | Sửa dữ liệu sau khi ký | Đổi một ký tự, giữ chữ ký cũ | Báo chữ ký không hợp lệ | Đạt |
+| 22 | Đo tốc độ RSA | Chạy 100 lần | Hiển thị kết quả cho bốn thao tác | Đạt |
 
 ## 7. Bảng số liệu thực nghiệm
 
